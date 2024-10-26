@@ -1,7 +1,6 @@
 # FileGroupify
 
 ![Static Badge](https://img.shields.io/badge/python-yellow)
-![Static Badge](https://img.shields.io/badge/Project%20Template-8A2BE2)
 
 Group files into folders based on their names.
 
