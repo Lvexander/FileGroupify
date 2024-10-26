@@ -1,8 +1,8 @@
 [project]
-name = "template-python-project"
+name = "FileGroupify"
 authors = ["Levi Alexander <alexander.hahahahaha@gmail.com>"]
 version = "0.1.0"
-description = "Add your description here"
+description = "Group files into folders based on their names"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
